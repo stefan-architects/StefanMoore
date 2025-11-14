@@ -1,28 +1,32 @@
-<h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">Aspiring AWS Certified Cloud Practitioner actively beginning a career in AWS Cloud technologies.</h3>
+<h1 align="center">Hi 👋, I'm Stefan, architecting my path as a cloud professional!</h1>
 
-🔭 I’m currently working on developing AWS skills, building a portfolio, and working towards AWS certifications.
+### 🕵🏽‍♂️ About the maintainer
+----
+Following a layoff, I'm recertifying my AWS Certified Cloud Practitioner certification and *re*building my cloud portfolio. This repository provides an overview of my portfolio.
 
-🌱 I’m currently learning best practices for deploying and managing cloud applications.
+### 🚀 Growing Technology Stack
+----
+|            Category              |                      Tools and Concepts                  
+|----------------------------------|--------------------------------------------------------| 
+| Cloud Platforms                  | AWS (EC2, S3, RDS, IAM, VPC, CloudWatch, Auto Scaling) | 
+| Containerization & Orchestration | Docker (*exploring*)                                   | 
+| Infrastructure as Code (IaC)     | CloudFormation (*intro*), Terraform (*exploring*)      | 
+| Programming & Scripting          | Python(Boto3) (*exploring*), Bash (*intro*)            | 
+| DevOps & CI/CD                   | GitHub (*intro*), Git (*intro*)                        |
 
-👯 I’m looking to collaborate on beginner & intermediate projects that will help me understand how the wide range of AWS services fit together.
+### 🏅 Certifications and Achievements
+- See all my certifications and achievements here 👉🏽 [Credly](https://www.credly.com/users/stefan-digital-cert-wallet)
 
-🤝 I’m looking for help with writing a README to showcase my skills and blog post about each project.
+### 🧠 What You Can Contribute
+----
+- 🛠️ Template improvements
+- 📄 Better documentation
+- 🐛 Troubleshooting notes
 
-💬 Ask me about what I’ve learned, the challenges I faced, and how I solved them and any enhancements I plan to make in the future.
+### 💥 Fun Fact
+----
+Fun fact ***People really don't fold pizza.***
 
-📫 How to reach me **stefan.programming@outlook.com**
-
-📄 Digital Badges [Credly](https://www.credly.com/users/stefanmoore)
-
-⚡ Fun fact **people really don't fold pizza**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/stefanmoore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stefanmoore" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanmoore&label=Profile%20views&color=0e75b6&style=flat" alt="stefanmoore" /> </p>
+### 💬 Connect with me 
+----
+- If you have any questions/feedback or want to collaborate, please don't hesitate to reach [me](mailto:stefan.programming@outlook.com)
