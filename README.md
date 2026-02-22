@@ -1,32 +1,65 @@
-<h1 align="center">Hi 👋, I'm Stefan, architecting my path as a cloud professional!</h1>
+<h1 align="center">Hi 👋, I'm Stefan — advancing my cloud engineering journey</h1>
 
-### 🕵🏽‍♂️ About the maintainer
-----
-Following a layoff, I'm recertifying my AWS Certified Cloud Practitioner certification and *re*building my cloud portfolio. This repository provides an overview of my portfolio.
+---
 
-### 🚀 Growing Technology Stack
-----
-|            Category              |                      Tools and Concepts                  
-|----------------------------------|--------------------------------------------------------| 
-| Cloud Platforms                  | AWS (EC2, S3, RDS, IAM, VPC, CloudWatch, Auto Scaling) | 
-| Containerization & Orchestration | Docker (*exploring*)                                   | 
-| Infrastructure as Code (IaC)     | CloudFormation (*intro*), Terraform (*exploring*)      | 
-| Programming & Scripting          | Python(Boto3) (*exploring*), Bash (*intro*)            | 
-| DevOps & CI/CD                   | GitHub (*intro*), Git (*intro*)                        |
+## 🌟 Why Cloud?  
+The journey to becoming a recertified AWS Certified Cloud Practitioner reminded me how much opportunity exists in cloud engineering and pushed me to strengthen my fundamentals and hands‑on skills.
 
-### 🏅 Certifications and Achievements
-- See all my certifications and achievements here 👉🏽 [Credly](https://www.credly.com/users/stefan-digital-cert-wallet)
+---
 
-### 🧠 What You Can Contribute
-----
-- 🛠️ Template improvements
-- 📄 Better documentation
-- 🐛 Troubleshooting notes
+## 🚀 Developing Technology Stack  
 
-### 💥 Fun Fact
-----
-Fun fact ***People really don't fold pizza.***
+### ☁️ AWS Cloud  
+- AWS CLI — *Planned* 
+- AWS CloudShell — *Planned*
+- AWS IAM — **In Progress**  
+- Amazon VPC — **In Progress**
 
-### 💬 Connect with me 
-----
-- If you have any questions/feedback or want to collaborate, please don't hesitate to reach [me](mailto:stefan.programming@outlook.com)
+### 🧩 Infrastructure as Code  
+- Learning foundational CloudFormation concepts  
+
+### 🛠️ DevOps & Tooling  
+- Light Bash scripting and experimentation  
+- Building foundational version‑control skills  
+
+### 🐍 Programming & SDKs
+- Light scripting and early experimentation — *Planned*
+
+---
+
+## 🌱 Current Focus  
+- Strengthening IAM fundamentals  
+- Launching EC2 instances in the default VPC  
+- Working with S3 for storage and retrieval  
+- Monitoring resources with CloudWatch  
+- Practicing AWS CLI workflows in CloudShell  
+
+---
+
+## 🧭 Next Steps  
+- Automating small tasks with Bash  
+- Version‑controlling labs with Git  
+- Creating first CloudFormation templates  
+
+---
+
+## 🏅 Certifications  
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1d2b1fb9-56c2-41be-b4de-7354419237dc/public_url)  
+- More on my 👉🏽 [Credly Profile](https://www.credly.com/users/stefan-digital-cert-wallet)
+
+---
+
+## 🧠 How You Can Contribute  
+- Refining templates and patterns  
+- Strengthening documentation clarity  
+- Adding real‑world troubleshooting examples  
+
+---
+
+## 📂 Projects  
+- In progress
+
+---
+
+## 📫 Connect With Me    
+- Portfolio: [Dot Card Profile](https://dot.cards/stefolio)
