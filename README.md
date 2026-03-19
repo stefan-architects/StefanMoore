@@ -1,65 +1,55 @@
-<h1 align="center">Hi 👋, I'm Stefan — advancing my cloud engineering journey</h1>
+# 🌩️ Stefan Moore | stefan-architects
+
+AWS Cloud Practitioner (recertified) developing hands‑on AWS and DevOps expertise while progressing toward the Solutions Architect–Associate and AI Practitioner certifications.
 
 ---
 
-## 🌟 Why Cloud?  
-The journey to becoming a recertified AWS Certified Cloud Practitioner reminded me how much opportunity exists in cloud engineering and pushed me to strengthen my fundamentals and hands‑on skills.
+## 🧱 Cloud Playground (Mono‑Repo for AWS & DevOps)
+
+*The Playground turns Cloud Playground RoadMap ideas into real AWS and DevOps work.*
+
+🔗 Repo: https://github.com/stefan-architects/cloud-playground
+
+---- 
+
+### 🗺️ Project: Cloud Playground RoadMap
+
+The RoadMap sets the goals; the Playground builds them.
+
+🔗 RoadMap: https://github.com/stefan-architects/cloud-playground/projects 
+
+#### Core Learning Modules
+
+*Guided by the evolving milestones in the Cloud Playground RoadMap*
+
+- **IaC & architecture** — CloudFormation, resource provisioning, and expanding IaC patterns  
+- **Networking & security** — VPC design, routing, access control, and isolation  
+- **Operations & DevOps tooling** — AWS CLI, CloudShell, scripting, Git workflows, and automation  
+- **Troubleshooting & analysis** — break‑fix scenarios, assumption testing, and AWS behavior insights  
+- **Focus & stack** — VPC/IAM depth, IaC growth, CLI fluency, and AWS core services
 
 ---
 
-## 🚀 Developing Technology Stack  
-
-### ☁️ AWS Cloud  
-- AWS CLI — *Planned* 
-- AWS CloudShell — *Planned*
-- AWS IAM — **In Progress**  
-- Amazon VPC — **In Progress**
-
-### 🧩 Infrastructure as Code  
-- Learning foundational CloudFormation concepts  
-
-### 🛠️ DevOps & Tooling  
-- Light Bash scripting and experimentation  
-- Building foundational version‑control skills  
-
-### 🐍 Programming & SDKs
-- Light scripting and early experimentation — *Planned*
+## 🏅 Certifications
+**AWS Certified Cloud Practitioner** — [Credential](https://www.credly.com/badges/1d2b1fb9-56c2-41be-b4de-7354419237dc/public_url)  
+See all certifications on my Credly profile: 👉🏽 [stefan-certs](https://www.credly.com/users/stefan-certs)
 
 ---
 
-## 🌱 Current Focus  
-- Strengthening IAM fundamentals  
-- Launching EC2 instances in the default VPC  
-- Working with S3 for storage and retrieval  
-- Monitoring resources with CloudWatch  
-- Practicing AWS CLI workflows in CloudShell  
+## 🧠 How You Can Contribute
+- Improve templates and reusable patterns  
+- Enhance documentation clarity and structure  
+- Add real‑world troubleshooting scenarios  
 
 ---
 
-## 🧭 Next Steps  
-- Automating small tasks with Bash  
-- Version‑controlling labs with Git  
-- Creating first CloudFormation templates  
+🛡️ Content Disclaimer
 
----
+This repository contains my personal notes, explanations, and practice implementations created during my ongoing AWS and DevOps learning journey. All content reflects my own understanding and is written in my own words.
 
-## 🏅 Certifications  
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1d2b1fb9-56c2-41be-b4de-7354419237dc/public_url)  
-- More on my 👉🏽 [Credly Profile](https://www.credly.com/users/stefan-digital-cert-wallet)
+No proprietary course material, paid content, or copyrighted assets are included. All rights to original sources remain with their respective owners.
 
----
+----
 
-## 🧠 How You Can Contribute  
-- Refining templates and patterns  
-- Strengthening documentation clarity  
-- Adding real‑world troubleshooting examples  
-
----
-
-## 📂 Projects  
-- In progress
-
----
-
-## 📫 Connect With Me    
+## 📫 Connect With Me
 - Portfolio: [Dot Card Profile](https://dot.cards/stefolio)
