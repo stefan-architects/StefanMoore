@@ -36,7 +36,9 @@ See all certifications on my Credly profile: → [stefan-certs](https://www.cred
 * Working toward the AWS Certified CloudOps Engineer – Associate certification
 
 ## 🤝 How to Connect & Contribute
-* Start a conversation or ask a cloud question over on my [GitHub Discussions](https://github.com/yourusername/yourusername/discussions) tab.
+* If you’re curious about the reasoning behind any experiment, architectural choice, or failure scenario, I’m always open to discussing the details.
+* Feedback on labs, documentation, or CloudOps approaches is welcome — this entire playground grows through iteration.
+* 📬 Email: stefan.programming@outlook.com
 
 ### 🛡️ Content Disclaimer
 > This repository contains my own notes, explanations, experiments, and practice implementations created throughout my learning journey. Some projects and labs may be inspired by or based on external learning resources, including AWS documentation, training labs, guided exercises, tutorials, courses, books, and other educational materials.
