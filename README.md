@@ -1,6 +1,6 @@
 🌩️ Hi, I’m Stefan, growing my AWS and DevOps skillset through intentional experimentation and controlled chaos.
 
-> ⚡ Currently status: Tidying up repositories, organizing code, and prepping the lab environment.
+> ⚡ Current status: Tidying up repositories, organizing code, and prepping the lab environment.
 
 ## 🧪 What I’m Building
 * Small projects that recreate real-world scenarios and help me understand how cloud systems behave when things go wrong.
@@ -18,7 +18,7 @@
 * Follow curiosity, asking questions and sometimes take things in unexpected directions just to see what happens.
 * Using guided lessons as a starting point, then explore beyond the instructions to better understand what I’m doing and why.
 * Getting comfortable working within the AWS environment and learning when to step away, pace myself, rethink my approach, and look to other sources for help. 
-* Document what I've learned so each discovery becomes a foundation for the next, using it to guide where I explore next.
+* Documenting what I've learned so each discovery becomes a foundation for the next, using it to guide where I explore next.
 
 ## 🔭 What I’m Exploring
 * **AWS architecture and reliability** — designing resilient, scalable cloud environments.
@@ -32,8 +32,8 @@
 See all certifications on my Credly profile: → [stefan-certs](https://www.credly.com/users/stefan-certs)
 
 ## 🗺️ Certification Roadmap
-* Preparing to sit for the AWS Solutions Architect Associate exam
-* Working toward the AWS Certified CloudOps Engineer – Associate certification
+* Strengthening cloud architecture foundation for the AWS Solutions Architect Associate exam
+* Working toward the AWS Certified CloudOps Engineer – Associate certification (*planned after strengthening baseline provisioning skills*)
 
 ## 🤝 How to Connect & Contribute
 * If you’re curious about the reasoning behind any experiment, architectural choice, or failure scenario, I’m always open to discussing the details.
@@ -43,7 +43,7 @@ See all certifications on my Credly profile: → [stefan-certs](https://www.cred
 ### 🛡️ Content Disclaimer
 > This repository contains my own notes, explanations, experiments, and practice implementations created throughout my learning journey. Some projects and labs may be inspired by or based on external learning resources, including AWS documentation, training labs, guided exercises, tutorials, courses, books, and other educational materials.
 >
-> I use these resources as a foundation for learning, then build upon them through my own experimentation, troubleshooting, documentation, and intentional failure scenarios.
+> I'm using these resources as a foundation for learning, then build upon them through my own experimentation, troubleshooting, documentation, and intentional failure scenarios.
 >
 > Everything here reflects my current understanding and is written in my own words, with occasional support from AI tools to refine clarity, structure, and readability.
 >
