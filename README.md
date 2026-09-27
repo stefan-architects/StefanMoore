@@ -1,6 +1,6 @@
 🌩️ Hi, I’m Stefan, growing my AWS and DevOps skillset through intentional experimentation and controlled chaos.
 
-> ⚡ Current status: Tidying up repositories, organizing code, and prepping the lab environment.
+> ⚡ Current Focus: Restructuring my AWS Organization and VPCs as I bridge the gap between my recent AWS Solutions Architect – Associate certification and preparing for the AWS CloudOps Engineer – Associate exam.
 
 ## 🧪 What I’m Building
 * Small projects that recreate real-world scenarios and help me understand how cloud systems behave when things go wrong.
