@@ -11,8 +11,7 @@
 * Clear documentation for each project covering the problem, approach, experiments, failures, and lessons learned.
 
 ## 🎚️ Featured Labs
-* []()
-* []()
+* [code-pipeline](https://github.com/stefan-architects/code-pipeline)
 
 ## 🧬 Learning Approach
 * Follow curiosity, asking questions and sometimes take things in unexpected directions just to see what happens.
@@ -28,12 +27,9 @@
 * **Cloud security** — strengthening security through least-privilege access and foundational AWS security practices.
 
 ## 🪪 Certifications
-* **AWS Certified Cloud Practitioner** — → [Credential](https://www.credly.com/badges/1d2b1fb9-56c2-41be-b4de-7354419237dc/public_url)  
-See all certifications on my Credly profile: → [stefan-certs](https://www.credly.com/users/stefan-certs)
-
-## 🗺️ Certification Roadmap
-* Strengthening cloud architecture foundation for the AWS Solutions Architect Associate exam
-* Working toward the AWS Certified CloudOps Engineer – Associate certification (*planned after strengthening baseline provisioning skills*)
+* **AWS Solutions Architect – Associate** — → [Credential](https://www.credly.com/badges/0d1d7187-4696-4930-8697-a25ffaec986f)
+* **AWS Certified Cloud Practitioner** — → [Credential](https://www.credly.com/badges/b370c661-7824-4467-a007-94d9751d99ce)  
+* See all certifications on my Credly profile: → [stefan-certs](https://www.credly.com/users/stefan-certs)
 
 ## 🤝 How to Connect & Contribute
 * If you’re curious about the reasoning behind any experiment, architectural choice, or failure scenario, I’m always open to discussing the details.
