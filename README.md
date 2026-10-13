@@ -27,9 +27,9 @@
 * **Cloud security** — strengthening security through least-privilege access and foundational AWS security practices.
 
 ## 🪪 Certifications
-* **AWS Solutions Architect – Associate** — → [Credential](https://www.credly.com/badges/0d1d7187-4696-4930-8697-a25ffaec986f)
-* **AWS Certified Cloud Practitioner** — → [Credential](https://www.credly.com/badges/b370c661-7824-4467-a007-94d9751d99ce)  
-* See all certifications on my Credly profile: → [stefan-certs](https://www.credly.com/users/stefan-certs)
+* **AWS Solutions Architect – Associate** — [Credential](https://www.credly.com/badges/0d1d7187-4696-4930-8697-a25ffaec986f)
+* **AWS Certified Cloud Practitioner** — [Credential](https://www.credly.com/badges/b370c661-7824-4467-a007-94d9751d99ce)  
+* See all certifications on my Credly profile — [stefan-certs](https://www.credly.com/users/stefan-certs)
 
 ## 🤝 How to Connect & Contribute
 * If you’re curious about the reasoning behind any experiment, architectural choice, or failure scenario, I’m always open to discussing the details.
