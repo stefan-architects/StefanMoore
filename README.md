@@ -12,6 +12,7 @@
 
 ## 🎚️ Featured Labs
 * [code-pipeline](https://github.com/stefan-architects/code-pipeline)
+* [simulearn-ai-practitioner](https://github.com/stefan-architects/simulearn-ai-practitioner)
 
 ## 🧬 Learning Approach
 * Follow curiosity, asking questions and sometimes take things in unexpected directions just to see what happens.
